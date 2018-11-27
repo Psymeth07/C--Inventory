@@ -1,0 +1,95 @@
+C:\Users\Meh\documents\visual studio 2010\Projects\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Meh\documents\visual studio 2010\Projects\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\Meh\documents\visual studio 2010\Projects\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Meh\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Meh\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Meh\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Meh\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\Meh\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+C:\Users\Meh\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+C:\Users\Meh\Desktop\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Meh\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+C:\Users\Meh\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+C:\Users\Meh\Desktop\Inventory\Inventory\bin\Debug\Inventory Database.mdb
+C:\Users\Meh\Desktop\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\Meh\Desktop\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Meh\Desktop\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Meh\Desktop\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Meh\Desktop\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Meh\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\Meh\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\pc\Downloads\Inventory_2\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\pc\Downloads\Inventory_2\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+C:\Users\pc\Downloads\Inventory_2\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+C:\Users\pc\Downloads\Inventory_2\Inventory\Inventory\bin\Debug\Inventory Database.mdb
+C:\Users\pc\Downloads\Inventory_2\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\pc\Downloads\Inventory_2\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\pc\Downloads\Inventory_2\Inventory\Inventory\obj\x86\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\pc\Downloads\Inventory_2\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\pc\Downloads\Inventory_2\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\pc\Downloads\Inventory_2\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\pc\Downloads\Inventory_2\Inventory\Inventory\obj\x86\Debug\Inventory.csproj.GenerateResource.Cache
+D:\Inventory\Inventory\bin\Debug\Inventory.exe.config
+D:\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+D:\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+D:\Inventory\Inventory\bin\Debug\Inventory Database.mdb
+D:\Inventory\Inventory\bin\Debug\Inventory.exe
+D:\Inventory\Inventory\bin\Debug\Inventory.pdb
+D:\Inventory\Inventory\obj\x86\Debug\Inventory.csprojResolveAssemblyReference.cache
+D:\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Inventory\Inventory\obj\x86\Debug\Inventory.csproj.GenerateResource.Cache
+E:\Inventory\Inventory\bin\Debug\Inventory.exe.config
+E:\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+E:\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+C:\Users\Student\Desktop\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Student\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+C:\Users\Student\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+C:\Users\Student\Desktop\Inventory\Inventory\bin\Debug\Inventory Database.mdb
+C:\Users\Student\Desktop\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\Student\Desktop\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Student\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Student\Desktop\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Student\Desktop\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Student\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\timo\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Student\Desktop\timo\Inventory\obj\x86\Debug\Inventory.exe
+C:\Users\Student\Desktop\timo\Inventory\obj\x86\Debug\Inventory.pdb
+C:\Users\Student\Desktop\Nikko\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Student\Desktop\Nikko\Inventory\obj\x86\Debug\Inventory.exe
+C:\Users\Student\Desktop\Nikko\Inventory\obj\x86\Debug\Inventory.pdb
+C:\Users\Student\Desktop\Nikko\Inventory\bin\Debug\Inventory Database.mdb
+C:\Users\Student\Desktop\Nikko\Inventory\bin\Debug\Inventory.exe
+C:\Users\Student\Desktop\Nikko\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Student\Desktop\Nikko\Inventory\obj\x86\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Nikko\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Student\Desktop\Nikko\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Student\Desktop\Nikko\Inventory\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Student\Desktop\Nikko\Inventory\obj\x86\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\ANNIEPOYOS\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Student\Desktop\ANNIEPOYOS\Inventory\obj\x86\Debug\Inventory.exe
+C:\Users\Student\Desktop\ANNIEPOYOS\Inventory\obj\x86\Debug\Inventory.pdb
+C:\Users\Student\Desktop\ANNIEPOYOS\Inventory\bin\Debug\Inventory Database.mdb
+C:\Users\Student\Desktop\ANNIEPOYOS\Inventory\bin\Debug\Inventory.exe
+C:\Users\Student\Desktop\ANNIEPOYOS\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Student\Desktop\ANNIEPOYOS\Inventory\obj\x86\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\ANNIEPOYOS\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Student\Desktop\ANNIEPOYOS\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Student\Desktop\ANNIEPOYOS\Inventory\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Student\Desktop\ANNIEPOYOS\Inventory\obj\x86\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Annie\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Student\Desktop\Annie\Inventory\obj\x86\Debug\Inventory.exe
+C:\Users\Student\Desktop\Annie\Inventory\obj\x86\Debug\Inventory.pdb
+D:\C# Example\New folder (2)\Inventory\Inventory\bin\Debug\Inventory.exe.config
+D:\C# Example\New folder (2)\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+D:\C# Example\New folder (2)\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+D:\C# Example\New folder (2)\Inventory\Inventory\bin\Debug\Inventory Database.mdb
+D:\C# Example\New folder (2)\Inventory\Inventory\bin\Debug\Inventory.exe
+D:\C# Example\New folder (2)\Inventory\Inventory\bin\Debug\Inventory.pdb
+D:\C# Example\New folder (2)\Inventory\Inventory\obj\x86\Debug\Inventory.csprojResolveAssemblyReference.cache
+D:\C# Example\New folder (2)\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\C# Example\New folder (2)\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\C# Example\New folder (2)\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C# Example\New folder (2)\Inventory\Inventory\obj\x86\Debug\Inventory.csproj.GenerateResource.Cache
